@@ -1,10 +1,20 @@
 # Olá!
 ## Resumo
+- Brasileiro
+- Acadêmico de Engenharia Mecânica
+- Minha linguagem de Programação favorita é Python
+- Amante da análise de Dados e aspirante a cientista de Dados
 
 ## Experiência
+### Universo acadêmico
+- Matlab (Utilizado para modelos analíticos de simulação)
 
-
-### Hi there 👋
+### Mercado de Trabalho
+- Linguagem M e DAX (Utilizo no Power BI)
+  
+## Proposta do Perfil
+### Armazenagem de códigos
+Busco guardar toda e qualquer informação que me possa ser útil em minha tragetória como Engenheiro Mecânico, e compartilhar com interessados quanto aos assuntos referentes à graduação
 <!--
 **emrodrigocardoso/emrodrigocardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
